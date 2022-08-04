@@ -1,4 +1,3 @@
 # vikasvicky
-this is fisrt repository
-jntfbpkol
-m,lgt6h n
+Tis is fisrt repository
+This is Vikas s/o Nanjunda
